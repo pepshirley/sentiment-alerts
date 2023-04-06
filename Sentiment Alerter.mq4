@@ -9,7 +9,7 @@
 #property  strict
 
 input string    chat_id = "1380098782";//Chat ID
-input string    token  = "5007154718:AAHWEu2vCue-1hPS1iZqbWasSg5fywVvjB0";//Bot token
+input string    token  = "";//Bot token
 input string    InpOtherSymbols = "Wall Street=US30.cash,US 500=US500.cash,FTSE 100=UK100.cash,France 40=FRA40.cash,Oil - US Crude=USOIL.cash,Germany 40=""";//Special symbols
 
 string        cookie       = NULL,headers;
